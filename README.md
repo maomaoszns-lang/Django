@@ -1,7 +1,8 @@
 # Devops-Django
 
+访问地址  https://linux77.wiki  账号admin 密码 123456
 #### 介绍
-的运维平台
+devops的运维平台
 
 #### 软件架构
 python  Django  DRF mysql  redis Docker k8s
