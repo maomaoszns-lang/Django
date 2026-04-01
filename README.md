@@ -1,38 +1,28 @@
 # Devops-Django
 
 #### 介绍
-Django开发的Devops平台
+的运维平台
 
 #### 软件架构
-软件架构说明
+python  Django  DRF mysql  redis Docker k8s
 
 
 #### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+makemigrations
+migrate
+docker build -t  xxx .
 
 #### 使用说明
+<img width="1855" height="817" alt="image" src="https://github.com/user-attachments/assets/f1c9f3c2-2aaa-4065-9fbb-2d99bcf7d0a2" />
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+<img width="1820" height="610" alt="image" src="https://github.com/user-attachments/assets/c862ee95-6f18-4720-916c-e5020dbeea67" />
 
-#### 参与贡献
+<img width="1816" height="667" alt="image" src="https://github.com/user-attachments/assets/82534263-ddf6-4b1d-8c5a-f1973a97459b" />
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+<img width="1764" height="631" alt="image" src="https://github.com/user-attachments/assets/8f33a6a7-ac72-4e0d-bc69-9d2e2ffd9207" />
 
 
-#### 特技
+<img width="1613" height="789" alt="image" src="https://github.com/user-attachments/assets/d107ba33-1f02-460a-8e26-394fdbdf602f" />
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
-# Django
+
+
