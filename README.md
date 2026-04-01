@@ -22,7 +22,6 @@ docker build -t  xxx .
 
 <img width="1764" height="631" alt="image" src="https://github.com/user-attachments/assets/8f33a6a7-ac72-4e0d-bc69-9d2e2ffd9207" />
 
-<img width="806" height="99" alt="image" src="https://github.com/user-attachments/assets/32c2bc96-9aac-499b-b245-ce068df22291" />
 
 
 
