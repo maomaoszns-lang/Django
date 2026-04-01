@@ -1,0 +1,66 @@
+version: '3'
+services:
+  devdb:
+    image: "mysql:8.4.0"
+    container_name: "devmysql"
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: 123456
+      MYSQL_DATABASE: devops
+      MYSQL_ALLOW_EMPTY_PASSWORD: "no"
+      TZ: Asia/Shanghai
+    command:
+      - --character-set-server=UTF8MB4
+      - --max_connections=1000
+    volumes:
+      - ./volumes/db/data:/var/lib/mysql
+      - ./volumes/db/log:/var/log/mysql
+    networks:
+      - devops
+    ports:
+      - "3306:3306"
+
+  devredis:
+    image: "redis:7.2.5"
+    container_name: devredis
+    restart: always
+    volumes:
+      - ./volumes/devredis:/data
+    networks:
+      - devops
+    ports:
+      - "6379:6379"
+
+  devops:
+    build: ../devops
+    restart: always
+    container_name: "devops"
+    environment:
+      - TZ=Asia/Shanghai
+    volumes:
+      - ./volumes/sock:/data/sock
+      - ./volumes/media:/www/media
+    depends_on:
+      - devdb
+      - devredis
+    networks:
+      - devops
+    ports:
+      - "8000:8000"
+
+  devnginx:
+    build: ./Devopssrc
+    container_name: "Devopssrc"
+    restart: always
+    ports:
+      - "80:80"
+    volumes:
+      - ./volumes/sock:/data/sock
+      - ./volumes/Devopssrc/log:/data/log
+      - ./volumes/media:/data/devops/media
+    networks:
+      - devops
+
+networks:
+  devops:
+    driver: "bridge"
