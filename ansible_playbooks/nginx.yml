@@ -1,0 +1,7 @@
+- hosts: "{{ e | default('all') }}"
+  remote_user: root
+  tasks:
+  - name: t1
+    ping:
+  - name: t2
+    shell: "ifconfig"

@@ -1,0 +1,8 @@
+- hosts: "{{ e | default('all') }}"
+  remote_user: root
+  gather_facts: no
+  tasks:
+  - name: t1
+    raw: hostname
+  - name: t2
+    raw: yum install -y epel-release && yum install -y redis && systemctl enable --now redis

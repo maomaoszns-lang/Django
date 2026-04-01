@@ -1,0 +1,8 @@
+- hosts: "{{ e | default('all') }}"
+  remote_user: root
+  gather_facts: no
+  tasks:
+  - name: t1
+    raw: ifconfig
+  - name: t2
+    raw: yum install -y java-1.8.0-openjdk tomcat && systemctl enable --now tomcat

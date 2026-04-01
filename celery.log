@@ -1,0 +1,415 @@
+2025-12-30 16:54:40,100 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 2.00 seconds... (1/100)
+
+2025-12-30 16:54:44,379 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 4.00 seconds... (2/100)
+
+2025-12-30 16:54:51,092 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 6.00 seconds... (3/100)
+
+2025-12-30 16:54:59,808 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 8.00 seconds... (4/100)
+
+2025-12-30 16:55:10,500 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 10.00 seconds... (5/100)
+
+2025-12-30 16:55:23,212 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 12.00 seconds... (6/100)
+
+2025-12-30 16:55:37,916 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 14.00 seconds... (7/100)
+
+2025-12-30 16:55:54,187 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 16.00 seconds... (8/100)
+
+2025-12-30 16:56:29,911 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 2.00 seconds... (1/100)
+
+2025-12-30 16:56:34,189 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 4.00 seconds... (2/100)
+
+2025-12-30 16:56:40,475 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 6.00 seconds... (3/100)
+
+2025-12-30 16:56:48,761 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 8.00 seconds... (4/100)
+
+2025-12-30 16:56:59,468 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 10.00 seconds... (5/100)
+
+2025-12-30 16:57:12,170 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 12.00 seconds... (6/100)
+
+2025-12-30 16:57:26,879 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 14.00 seconds... (7/100)
+
+2025-12-30 16:57:43,590 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 16.00 seconds... (8/100)
+
+2025-12-30 16:58:02,309 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 18.00 seconds... (9/100)
+
+2025-12-30 16:58:23,016 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 20.00 seconds... (10/100)
+
+2025-12-30 16:58:43,434 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 2.00 seconds... (1/100)
+
+2025-12-30 16:58:47,724 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 4.00 seconds... (2/100)
+
+2025-12-30 16:58:54,005 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 6.00 seconds... (3/100)
+
+2025-12-30 17:00:14,165 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 2.00 seconds... (1/100)
+
+2025-12-30 17:00:18,432 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 4.00 seconds... (2/100)
+
+2025-12-30 17:00:25,146 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 6.00 seconds... (3/100)
+
+2025-12-30 17:00:33,856 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 8.00 seconds... (4/100)
+
+2025-12-30 17:01:10,188 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 2.00 seconds... (1/100)
+
+2025-12-30 17:01:14,474 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 4.00 seconds... (2/100)
+
+2025-12-30 17:01:21,182 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 6.00 seconds... (3/100)
+
+2025-12-30 17:01:29,877 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 8.00 seconds... (4/100)
+
+2025-12-30 17:01:40,593 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 10.00 seconds... (5/100)
+
+2025-12-30 17:01:53,307 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 12.00 seconds... (6/100)
+
+2025-12-30 17:02:08,010 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 14.00 seconds... (7/100)
+
+2025-12-30 17:02:38,788 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 2.00 seconds... (1/100)
+
+2025-12-30 17:02:43,053 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 4.00 seconds... (2/100)
+
+2025-12-30 17:02:49,749 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 6.00 seconds... (3/100)
+
+2025-12-30 17:02:58,448 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 8.00 seconds... (4/100)
+
+2025-12-30 17:03:09,152 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 10.00 seconds... (5/100)
+
+2025-12-30 17:03:21,876 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 12.00 seconds... (6/100)
+
+2025-12-30 17:03:36,573 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 14.00 seconds... (7/100)
+
+2025-12-30 17:03:53,265 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 16.00 seconds... (8/100)
+
+2025-12-30 17:04:11,971 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 18.00 seconds... (9/100)
+
+2025-12-30 17:04:37,070 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 2.00 seconds... (1/100)
+
+2025-12-30 17:05:22,818 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 2.00 seconds... (1/100)
+
+2025-12-30 17:05:27,098 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 4.00 seconds... (2/100)
+
+2025-12-30 17:07:12,241 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 2.00 seconds... (1/100)
+
+2025-12-30 17:07:16,516 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 4.00 seconds... (2/100)
+
+2025-12-30 17:07:23,232 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 6.00 seconds... (3/100)
+
+2025-12-30 17:07:31,912 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 8.00 seconds... (4/100)
+
+2025-12-30 17:07:42,621 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 10.00 seconds... (5/100)
+
+2025-12-30 17:07:58,024 - celery.worker.consumer.connection - INFO - Connected to redis://127.0.0.1:6379/1
+2025-12-30 17:07:58,027 - celery.worker.consumer.mingle - INFO - mingle: searching for neighbors
+2025-12-30 17:07:59,046 - celery.worker.consumer.mingle - INFO - mingle: all alone
+2025-12-30 17:07:59,068 - celery.apps.worker - INFO - celery@DESKTOP-VNL21AF ready.
+2025-12-30 17:08:35,036 - celery.redirected - WARNING - Exception ignored in atexit callback <function _exit_function at 0x000001E6DE6C8A40>
+2025-12-30 17:08:35,036 - celery.redirected - WARNING - :
+2025-12-30 17:08:35,036 - celery.redirected - WARNING - Traceback (most recent call last):
+2025-12-30 17:08:35,037 - celery.redirected - WARNING -   File "D:\python\Lib\multiprocessing\util.py", line 326, in _exit_function
+2025-12-30 17:08:35,053 - celery.redirected - WARNING -     
+2025-12-30 17:08:35,053 - celery.redirected - WARNING - _run_finalizers(0)
+2025-12-30 17:08:35,053 - celery.redirected - WARNING -   File "D:\python\Lib\multiprocessing\util.py", line 292, in _run_finalizers
+2025-12-30 17:08:35,054 - celery.redirected - WARNING -     
+2025-12-30 17:08:35,054 - celery.redirected - WARNING - finalizer()
+2025-12-30 17:08:35,054 - celery.redirected - WARNING -   File "D:\python\Lib\multiprocessing\util.py", line 216, in __call__
+2025-12-30 17:08:35,054 - celery.redirected - WARNING -     
+2025-12-30 17:08:35,055 - celery.redirected - WARNING - res = self._callback(*self._args, **self._kwargs)
+2025-12-30 17:08:35,055 - celery.redirected - WARNING -   File "D:\python\Lib\site-packages\billiard\pool.py", line 1683, in _terminate_pool
+2025-12-30 17:08:35,069 - celery.redirected - WARNING -     
+2025-12-30 17:08:35,070 - celery.redirected - WARNING - timeout_handler.stop(TIMEOUT_MAX)
+2025-12-30 17:08:35,070 - celery.redirected - WARNING -   File "D:\python\Lib\site-packages\billiard\pool.py", line 524, in stop
+2025-12-30 17:08:35,070 - celery.redirected - WARNING -     
+2025-12-30 17:08:35,070 - celery.redirected - WARNING - self.join(timeout)
+2025-12-30 17:08:35,070 - celery.redirected - WARNING -   File "D:\python\Lib\threading.py", line 1092, in join
+2025-12-30 17:08:35,084 - celery.redirected - WARNING -     
+2025-12-30 17:08:35,085 - celery.redirected - WARNING - self._handle.join(timeout)
+2025-12-30 17:08:35,085 - celery.redirected - WARNING -   File "D:\python\Lib\site-packages\celery\apps\worker.py", line 300, in _handle_request
+2025-12-30 17:08:35,096 - celery.redirected - WARNING -     
+2025-12-30 17:08:35,097 - celery.redirected - WARNING - callback(worker)
+2025-12-30 17:08:35,097 - celery.redirected - WARNING -   File "D:\python\Lib\site-packages\celery\apps\worker.py", line 329, in on_hard_shutdown
+2025-12-30 17:08:35,097 - celery.redirected - WARNING -     
+2025-12-30 17:08:35,098 - celery.redirected - WARNING - raise WorkerTerminate(EX_FAILURE)
+2025-12-30 17:08:35,098 - celery.redirected - WARNING - celery.exceptions
+2025-12-30 17:08:35,098 - celery.redirected - WARNING - .
+2025-12-30 17:08:35,098 - celery.redirected - WARNING - WorkerTerminate
+2025-12-30 17:08:35,098 - celery.redirected - WARNING - : 
+2025-12-30 17:08:35,098 - celery.redirected - WARNING - 1
+2025-12-30 17:08:39,380 - celery.worker.consumer.connection - INFO - Connected to redis://127.0.0.1:6379/1
+2025-12-30 17:08:39,384 - celery.worker.consumer.mingle - INFO - mingle: searching for neighbors
+2025-12-30 17:08:40,411 - celery.worker.consumer.mingle - INFO - mingle: all alone
+2025-12-30 17:08:40,429 - celery.apps.worker - INFO - celery@DESKTOP-VNL21AF ready.
+2025-12-30 17:09:12,389 - celery.redirected - WARNING - Exception ignored in atexit callback <function _exit_function at 0x000001BFC7EE8A40>
+2025-12-30 17:09:12,389 - celery.redirected - WARNING - :
+2025-12-30 17:09:12,389 - celery.redirected - WARNING - Traceback (most recent call last):
+2025-12-30 17:09:12,390 - celery.redirected - WARNING -   File "D:\python\Lib\multiprocessing\util.py", line 326, in _exit_function
+2025-12-30 17:09:12,390 - celery.redirected - WARNING -     
+2025-12-30 17:09:12,390 - celery.redirected - WARNING - _run_finalizers(0)
+2025-12-30 17:09:12,390 - celery.redirected - WARNING -   File "D:\python\Lib\multiprocessing\util.py", line 292, in _run_finalizers
+2025-12-30 17:09:12,391 - celery.redirected - WARNING -     
+2025-12-30 17:09:12,391 - celery.redirected - WARNING - finalizer()
+2025-12-30 17:09:12,391 - celery.redirected - WARNING -   File "D:\python\Lib\multiprocessing\util.py", line 216, in __call__
+2025-12-30 17:09:12,391 - celery.redirected - WARNING -     
+2025-12-30 17:09:12,391 - celery.redirected - WARNING - res = self._callback(*self._args, **self._kwargs)
+2025-12-30 17:09:12,392 - celery.redirected - WARNING -   File "D:\python\Lib\site-packages\billiard\pool.py", line 1683, in _terminate_pool
+2025-12-30 17:09:12,392 - celery.redirected - WARNING -     
+2025-12-30 17:09:12,392 - celery.redirected - WARNING - timeout_handler.stop(TIMEOUT_MAX)
+2025-12-30 17:09:12,392 - celery.redirected - WARNING -   File "D:\python\Lib\site-packages\billiard\pool.py", line 524, in stop
+2025-12-30 17:09:12,393 - celery.redirected - WARNING -     
+2025-12-30 17:09:12,393 - celery.redirected - WARNING - self.join(timeout)
+2025-12-30 17:09:12,393 - celery.redirected - WARNING -   File "D:\python\Lib\threading.py", line 1092, in join
+2025-12-30 17:09:12,393 - celery.redirected - WARNING -     
+2025-12-30 17:09:12,394 - celery.redirected - WARNING - self._handle.join(timeout)
+2025-12-30 17:09:12,394 - celery.redirected - WARNING -   File "D:\python\Lib\site-packages\celery\apps\worker.py", line 300, in _handle_request
+2025-12-30 17:09:12,394 - celery.redirected - WARNING -     
+2025-12-30 17:09:12,394 - celery.redirected - WARNING - callback(worker)
+2025-12-30 17:09:12,394 - celery.redirected - WARNING -   File "D:\python\Lib\site-packages\celery\apps\worker.py", line 329, in on_hard_shutdown
+2025-12-30 17:09:12,394 - celery.redirected - WARNING -     
+2025-12-30 17:09:12,395 - celery.redirected - WARNING - raise WorkerTerminate(EX_FAILURE)
+2025-12-30 17:09:12,395 - celery.redirected - WARNING - celery.exceptions
+2025-12-30 17:09:12,395 - celery.redirected - WARNING - .
+2025-12-30 17:09:12,395 - celery.redirected - WARNING - WorkerTerminate
+2025-12-30 17:09:12,395 - celery.redirected - WARNING - : 
+2025-12-30 17:09:12,395 - celery.redirected - WARNING - 1
+2025-12-30 17:09:51,693 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 2.00 seconds... (1/100)
+
+2025-12-30 17:09:55,973 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 4.00 seconds... (2/100)
+
+2025-12-30 17:10:22,516 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 2.00 seconds... (1/100)
+
+2025-12-30 17:10:26,799 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 4.00 seconds... (2/100)
+
+2025-12-30 17:10:33,508 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 6.00 seconds... (3/100)
+
+2025-12-30 17:10:48,558 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 2.00 seconds... (1/100)
+
+2025-12-30 17:10:52,844 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 4.00 seconds... (2/100)
+
+2025-12-30 17:10:59,557 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 6.00 seconds... (3/100)
+
+2025-12-30 17:11:08,246 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 8.00 seconds... (4/100)
+
+2025-12-30 17:11:18,954 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 10.00 seconds... (5/100)
+
+2025-12-30 17:11:31,671 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 12.00 seconds... (6/100)
+
+2025-12-30 17:11:46,375 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 14.00 seconds... (7/100)
+
+2025-12-30 17:12:21,113 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 2.00 seconds... (1/100)
+
+2025-12-30 17:12:25,387 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 4.00 seconds... (2/100)
+
+2025-12-30 17:12:32,093 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 6.00 seconds... (3/100)
+
+2025-12-30 17:12:40,795 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 8.00 seconds... (4/100)
+
+2025-12-30 17:12:51,501 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 10.00 seconds... (5/100)
+
+2025-12-30 17:13:47,677 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 2.00 seconds... (1/100)
+
+2025-12-30 17:15:43,913 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 2.00 seconds... (1/100)
+
+2025-12-30 17:15:48,197 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 4.00 seconds... (2/100)
+
+2025-12-30 17:15:54,875 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 6.00 seconds... (3/100)
+
+2025-12-30 17:16:03,587 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 8.00 seconds... (4/100)
+
+2025-12-30 17:16:27,247 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://devredis:6379/1: Error 11001 connecting to devredis:6379. getaddrinfo failed..
+Trying again in 2.00 seconds... (1/100)
+
+2025-12-30 17:17:14,182 - celery.worker.consumer.connection - INFO - Connected to redis://127.0.0.1:6379/1
+2025-12-30 17:17:14,186 - celery.worker.consumer.mingle - INFO - mingle: searching for neighbors
+2025-12-30 17:17:15,199 - celery.worker.consumer.mingle - INFO - mingle: all alone
+2025-12-30 17:17:15,217 - celery.apps.worker - INFO - celery@DESKTOP-VNL21AF ready.
+2025-12-30 17:17:46,296 - celery.worker.strategy - INFO - Task apps.dev_ansible.tasks.run_ansible_playbook_task[90e08a29-8764-4478-853c-7d28e516e452] received
+2025-12-30 17:17:46,329 - celery.worker.request - ERROR - Task handler raised error: ValueError('not enough values to unpack (expected 3, got 0)')
+billiard.einfo.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "D:\python\Lib\site-packages\billiard\pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+                                   ~~~^^^^^^^^^^^^^^^^^
+  File "D:\python\Lib\site-packages\celery\app\trace.py", line 640, in fast_trace_task
+    tasks, accept, hostname = _loc
+    ^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 3, got 0)
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\python\Lib\site-packages\billiard\pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+                                   ~~~^^^^^^^^^^^^^^^^^
+  File "D:\python\Lib\site-packages\celery\app\trace.py", line 640, in fast_trace_task
+    tasks, accept, hostname = _loc
+    ^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 3, got 0)
+2025-12-30 17:18:45,841 - celery.worker.consumer.connection - INFO - Connected to redis://127.0.0.1:6379/1
+2025-12-30 17:18:45,843 - celery.worker.consumer.mingle - INFO - mingle: searching for neighbors
+2025-12-30 17:18:46,859 - celery.worker.consumer.mingle - INFO - mingle: all alone
+2025-12-30 17:18:46,872 - celery.apps.worker - INFO - celery@DESKTOP-VNL21AF ready.
+2025-12-30 17:19:05,468 - celery.worker.strategy - INFO - Task apps.dev_ansible.tasks.run_ansible_playbook_task[f89ba8e8-7624-408a-91af-26ce6fab74b3] received
+2025-12-30 17:19:05,478 - celery.redirected - WARNING - Executing command: ansible-playbook -i /etc/ansible/hosts D:\devops_Django\devops\ansible_playbooks\nginx.yml -e 'web'
+2025-12-30 17:19:05,709 - celery.app.trace - INFO - Task apps.dev_ansible.tasks.run_ansible_playbook_task[f89ba8e8-7624-408a-91af-26ce6fab74b3] succeeded in 0.24009440001100302s: None
+2025-12-30 17:20:08,032 - celery.worker.strategy - INFO - Task apps.dev_ansible.tasks.run_ansible_playbook_task[303fe4fd-5362-444a-8a7f-592f9f26c0d7] received
+2025-12-30 17:20:08,037 - celery.redirected - WARNING - Executing command: ansible-playbook -i /etc/ansible/hosts D:\devops_Django\devops\ansible_playbooks\nginx.yml -e 'web'
+2025-12-30 17:20:08,135 - celery.app.trace - INFO - Task apps.dev_ansible.tasks.run_ansible_playbook_task[303fe4fd-5362-444a-8a7f-592f9f26c0d7] succeeded in 0.10181229998124763s: None
+2025-12-30 17:20:55,990 - celery.worker.strategy - INFO - Task apps.dev_ansible.tasks.run_ansible_playbook_task[a19819ba-5e3d-488f-acb2-d7385214d75e] received
+2025-12-30 17:20:55,994 - celery.redirected - WARNING - Executing command: ansible-playbook -i /etc/ansible/hosts D:\devops_Django\devops\ansible_playbooks\nginx.yml -e 'web'
+2025-12-30 17:20:56,091 - celery.app.trace - INFO - Task apps.dev_ansible.tasks.run_ansible_playbook_task[a19819ba-5e3d-488f-acb2-d7385214d75e] succeeded in 0.1008315000217408s: None
+2025-12-31 07:06:30,462 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://127.0.0.1:6379/1: Error 10061 connecting to 127.0.0.1:6379. ����Ŀ�����������ܾ����޷����ӡ�..
+Trying again in 2.00 seconds... (1/100)
+
+2025-12-31 07:06:34,512 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://127.0.0.1:6379/1: Error 10061 connecting to 127.0.0.1:6379. ����Ŀ�����������ܾ����޷����ӡ�..
+Trying again in 4.00 seconds... (2/100)
+
+2025-12-31 07:06:40,552 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://127.0.0.1:6379/1: Error 10061 connecting to 127.0.0.1:6379. ����Ŀ�����������ܾ����޷����ӡ�..
+Trying again in 6.00 seconds... (3/100)
+
+2025-12-31 07:06:58,685 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://127.0.0.1:6379/1: Error 10061 connecting to 127.0.0.1:6379. ����Ŀ�����������ܾ����޷����ӡ�..
+Trying again in 2.00 seconds... (1/100)
+
+2025-12-31 07:07:02,722 - celery.worker.consumer.consumer - ERROR - consumer: Cannot connect to redis://127.0.0.1:6379/1: Error 10061 connecting to 127.0.0.1:6379. ����Ŀ�����������ܾ����޷����ӡ�..
+Trying again in 4.00 seconds... (2/100)
+
+2025-12-31 07:07:08,756 - celery.worker.consumer.connection - INFO - Connected to redis://127.0.0.1:6379/1
+2025-12-31 07:07:08,758 - celery.worker.consumer.mingle - INFO - mingle: searching for neighbors
+2025-12-31 07:07:09,785 - celery.worker.consumer.mingle - INFO - mingle: all alone
+2025-12-31 07:07:09,800 - celery.apps.worker - INFO - celery@DESKTOP-VNL21AF ready.
+2025-12-31 07:08:12,697 - celery.worker.consumer.consumer - WARNING - consumer: Connection to broker lost. Trying to re-establish the connection...
+Traceback (most recent call last):
+  File "D:\python\Lib\site-packages\redis\connection.py", line 592, in read_response
+    response = self._parser.read_response(disable_decoding=disable_decoding)
+  File "D:\python\Lib\site-packages\redis\_parsers\resp2.py", line 15, in read_response
+    result = self._read_response(disable_decoding=disable_decoding)
+  File "D:\python\Lib\site-packages\redis\_parsers\resp2.py", line 25, in _read_response
+    raw = self._buffer.readline()
+  File "D:\python\Lib\site-packages\redis\_parsers\socket.py", line 115, in readline
+    self._read_from_socket()
+    ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\python\Lib\site-packages\redis\_parsers\socket.py", line 65, in _read_from_socket
+    data = self._sock.recv(socket_read_size)
+ConnectionResetError: [WinError 10054] Զ������ǿ�ȹر���һ�����е����ӡ�
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python\Lib\site-packages\celery\worker\consumer\consumer.py", line 341, in start
+    blueprint.start(self)
+    ~~~~~~~~~~~~~~~^^^^^^
+  File "D:\python\Lib\site-packages\celery\bootsteps.py", line 116, in start
+    step.start(parent)
+    ~~~~~~~~~~^^^^^^^^
+  File "D:\python\Lib\site-packages\celery\worker\consumer\consumer.py", line 772, in start
+    c.loop(*c.loop_args())
+    ~~~~~~^^^^^^^^^^^^^^^^
+  File "D:\python\Lib\site-packages\celery\worker\loops.py", line 143, in synloop
+    _loop_cycle()
+    ~~~~~~~~~~~^^
+  File "D:\python\Lib\site-packages\celery\worker\loops.py", line 132, in _loop_cycle
+    connection.drain_events(timeout=2.0)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "D:\python\Lib\site-packages\kombu\connection.py", line 341, in drain_events
+    return self.transport.drain_events(self.connection, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\Lib\site-packages\kombu\transport\virtual\base.py", line 997, in drain_events
+    get(self._deliver, timeout=timeout)
+    ~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\Lib\site-packages\kombu\transport\redis.py", line 598, in get
+    ret = self.handle_event(fileno, event)
+  File "D:\python\Lib\site-packages\kombu\transport\redis.py", line 580, in handle_event
+    return self.on_readable(fileno), self
+           ~~~~~~~~~~~~~~~~^^^^^^^^
+  File "D:\python\Lib\site-packages\kombu\transport\redis.py", line 576, in on_readable
+    chan.handlers[type]()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "D:\python\Lib\site-packages\kombu\transport\redis.py", line 974, in _brpop_read
+    dest__item = self.client.parse_response(self.client.connection,
+                                            'BRPOP',
+                                            **options)
+  File "D:\python\Lib\site-packages\redis\client.py", line 584, in parse_response
+    response = connection.read_response()
+  File "D:\python\Lib\site-packages\redis\connection.py", line 600, in read_response
+    raise ConnectionError(
+        f"Error while reading from {host_error}" f" : {e.args}"
+    )
+redis.exceptions.ConnectionError: Error while reading from 127.0.0.1:6379 : (10054, 'Զ������ǿ�ȹر���һ�����е����ӡ�', None, 10054, None)
+2025-12-31 07:08:14,841 - py.warnings - WARNING - D:\python\Lib\site-packages\celery\worker\consumer\consumer.py:392: CPendingDeprecationWarning: 
+In Celery 5.1 we introduced an optional breaking change which
+on connection loss cancels all currently executed tasks with late acknowledgement enabled.
+These tasks cannot be acknowledged as the connection is gone, and the tasks are automatically redelivered
+back to the queue. You can enable this behavior using the worker_cancel_long_running_tasks_on_connection_loss
+setting. In Celery 5.1 it is set to False by default. The setting will be set to True by default in Celery 6.0.
+
+  warnings.warn(CANCEL_TASKS_BY_DEFAULT, CPendingDeprecationWarning)
+
