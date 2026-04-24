@@ -1,5 +1,5 @@
 # Devops-Django
-
+# 开VPN访问速度更快 
 访问地址  https://linux77.wiki  账号admin 密码 123456
 #### 介绍
 devops的运维平台
