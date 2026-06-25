@@ -2,6 +2,11 @@
 访问地址  http://38.246.251.177  账号admin 密码 123456
 #### 介绍
 devops的运维平台
+ 1. 权限管理
+ 2. 服务器日志(采集agent端多台服务器日志 /var/log/messages  aget端采集成功->做告警匹配规则-匹配成功上传->通知)
+ 3. Linux管理(xshell终端操作界面)
+ 4. Ansible管理(提供了k8s高可用部署剧本,自己可以写ansible-playbook 剧本  修改Host)
+
 
 #### 软件架构
 python  Django  DRF mysql  redis Docker k8s
