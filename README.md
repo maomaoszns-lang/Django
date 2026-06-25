@@ -21,9 +21,14 @@ docker build -t  xxx .
 #### 使用说明
 <img width="1215" height="703" alt="image" src="https://github.com/user-attachments/assets/82b4ac28-0664-434f-b54e-de1d8b4f66fe" />
 
-<img width="1855" height="817" alt="image" src="https://github.com/user-attachments/assets/f1c9f3c2-2aaa-4065-9fbb-2d99bcf7d0a2" />
+<img width="2553" height="1098" alt="image" src="https://github.com/user-attachments/assets/40a39992-4fcd-4be3-8e47-f82ce6ce445a" />
+
 
 <img width="1820" height="610" alt="image" src="https://github.com/user-attachments/assets/c862ee95-6f18-4720-916c-e5020dbeea67" />
+
+<img width="2448" height="795" alt="image" src="https://github.com/user-attachments/assets/1010bdd0-ea07-4d14-b328-8f9542ef5d76" />
+
+<img width="2487" height="1190" alt="image" src="https://github.com/user-attachments/assets/40ede027-e19e-471b-af67-2e2d44a3cfa0" />
 
 <img width="2114" height="429" alt="image" src="https://github.com/user-attachments/assets/9fcde724-31cf-4822-95e4-5321c6cbff94" />
 
