@@ -22,8 +22,9 @@ makemigrations
 migrate
 docker build -t  xxx .
 
-#### 使用说明
-<img width="1215" height="703" alt="image" src="https://github.com/user-attachments/assets/82b4ac28-0664-434f-b54e-de1d8b4f66fe" />
+#### 平台功能使用效果图
+<img width="2124" height="1110" alt="image" src="https://github.com/user-attachments/assets/ff45bc47-1c07-4a04-92ca-14b96a9bf826" />
+
 
 <img width="2553" height="1098" alt="image" src="https://github.com/user-attachments/assets/40a39992-4fcd-4be3-8e47-f82ce6ce445a" />
 
