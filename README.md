@@ -10,7 +10,7 @@ devops的运维平台
 
 
 #### 软件架构
-python  Django  DRF mysql  redis Docker k8s
+python  Django  DRF mysql  redis Docker k8s istio
 
 
 #### 安装教程
