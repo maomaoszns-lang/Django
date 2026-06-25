@@ -13,6 +13,9 @@ devops的运维平台
 #### 软件架构
 python  Django  DRF mysql  redis Docker k8s istio
 
+<img width="1598" height="528" alt="image" src="https://github.com/user-attachments/assets/fe7e60ed-003f-4ee2-b7f8-b68a651ddb25" />
+
+
 
 #### 安装教程
 makemigrations
@@ -33,10 +36,11 @@ docker build -t  xxx .
 
 <img width="2114" height="429" alt="image" src="https://github.com/user-attachments/assets/9fcde724-31cf-4822-95e4-5321c6cbff94" />
 
+<img width="2520" height="933" alt="image" src="https://github.com/user-attachments/assets/dbc31354-7704-437e-b69d-e72d7d2fc244" />
+
+
 <img width="2559" height="1009" alt="image" src="https://github.com/user-attachments/assets/3e6c8f25-93c4-4486-ba31-667fb3bbadfd" />
 
-
-<img width="1764" height="631" alt="image" src="https://github.com/user-attachments/assets/8f33a6a7-ac72-4e0d-bc69-9d2e2ffd9207" />
 
 
 
