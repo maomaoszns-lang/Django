@@ -33,8 +33,7 @@ docker build -t  xxx .
 
 <img width="2114" height="429" alt="image" src="https://github.com/user-attachments/assets/9fcde724-31cf-4822-95e4-5321c6cbff94" />
 
-
-<img width="1850" height="746" alt="image" src="https://github.com/user-attachments/assets/f96450e5-3f4b-486d-8602-b6e5565aaf51" />
+<img width="2559" height="1009" alt="image" src="https://github.com/user-attachments/assets/3e6c8f25-93c4-4486-ba31-667fb3bbadfd" />
 
 
 <img width="1764" height="631" alt="image" src="https://github.com/user-attachments/assets/8f33a6a7-ac72-4e0d-bc69-9d2e2ffd9207" />
